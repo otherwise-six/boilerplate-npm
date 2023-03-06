@@ -3,6 +3,8 @@
 	"author": "Alex vanKooten",
 	"version": "0.0.1",
 	"description": "An npm to help me learn backend dev and APIs",
+  	"keywords": [ "freecodecamp", "beginner", "backend", "development" ],
+  	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
