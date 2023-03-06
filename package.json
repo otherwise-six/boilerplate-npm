@@ -1,6 +1,7 @@
 {
 	"author": "Alex vanKooten",
-	"version": "0.01",
+	"version": "0.0.1",
+	"description": "An npm to help me learn backend dev and APIs",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -11,6 +12,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/otherwise-six/boilerplate-npm.git"
 	}
 }
